@@ -6,3 +6,8 @@ A website where a user can use mouse or keyboard buttons to play different sound
 
 # Tools Used
 Used JS event handlers, animations and audio files for the drum sound. Also used HTML5 and CSS3.
+
+# Screenshots
+![](images/initial-page.png)
+
+![](images/button-pressed.png)
